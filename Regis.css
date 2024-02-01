@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background: radial-gradient(circle at 100%, #333, #333 50%, #eee 75%, #333 75%);
+}
+h1{
+    color: aqua;
+    font-size: 50px;
+}
+#reg{
+    color: aquamarine;
+}
+.f{
+    border-radius: 7px;
+    background-color: bisque;
+    color: rgb(3, 80, 55);
+}
+.g{
+    border-radius: 8px;
+    background-color: blue;
+    color: rgb(13, 173, 10);
+    width:100px;
+}
+.h{
+    border-radius: 8px;
+     width:80px;
+     background-color: rgb(48, 158, 197);
+     color: rgb(187, 29, 8);
+}
