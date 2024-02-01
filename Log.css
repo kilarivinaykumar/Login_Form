@@ -1,0 +1,41 @@
+body{
+    background: radial-gradient(#e66465, #9198e5);
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: aquamarine;
+     font-size: 50px;
+}
+h1:hover{
+    background: rgb(155 120 178);
+}
+#cock{
+     color: rgb(22, 49, 201);
+      
+}
+.log{
+    background-color: aliceblue;
+    color: rgb(12, 54, 40);
+     border-radius: 7px;
+
+}
+#tail{
+    background-color: blue;
+    color: white;
+    border-radius: 7px;
+}
+#tail1{
+    background-color: rgb(169, 26, 177);
+    color: white;
+    border-radius: 7px;
+}
+#tail1:hover{
+   background: radial-gradient(#e66465, #9198e5);
+   color: chocolate;
+}
+#tail:hover{
+   background: radial-gradient(#e66465, #9198e5);
+   color: cyan;
+   
+}
